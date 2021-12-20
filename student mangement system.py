@@ -20,7 +20,7 @@ def DisplayForm():
     #setting width and height for window
     display_screen.geometry("1000x500")
     #setting title for window
-    display_screen.title("krazyprogrammer.com presents")
+    display_screen.title("Gauravmishra")
     global tree
     global SEARCH
     global name,contact,email,rollno,branch
